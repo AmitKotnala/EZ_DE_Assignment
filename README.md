@@ -1,7 +1,7 @@
 ##  <img src="https://github.com/AmitKotnala/EZ_DE_Assignment/assets/118646525/9fb6d0f3-3cbe-4303-8ccc-43e9809ee01e" width="100" height="60"> EZ coding Assignment -- Translation Memory ETL  
 
 ## Introduction
-The Translation Memory ETL (Extract, Transform, Load) project is designed to streamline the process of extracting bilingual translation data from Translation Memory eXchange (TMX) files, performing data transformations, and loading the cleaned data into the MySQL server. This project serves as a foundational framework for managing multilingual translation data.
+The Translation Memory ETL (Extract, Transform, Load) project is designed to streamline the process of extracting bilingual translation data from Translation Memory eXchange (TMX) file, performing data transformations, and loading the cleaned data into the MySQL server. This project serves as a foundational framework for managing multilingual translation data.
 
 ## Project Features
 

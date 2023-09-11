@@ -19,23 +19,28 @@ The Translation Memory ETL (Extract, Transform, Load) project is designed to str
 | **File** | Contains project data file in ZIP format. |
 | **Python File** | 	This folder contains a .ipynb Notebook file.  |
 
+# Workflow :
+
 ## Creating functions to Extract, Load and Transform the TMX format file
 
 ![image](https://github.com/AmitKotnala/EZ_DE_Assignment/assets/118646525/a815aeeb-0147-4e7c-9f84-f46eb79cd875)
+
+## Function Execution:
+
+![image](https://github.com/AmitKotnala/EZ_DE_Assignment/assets/118646525/9047acc0-84ae-4b04-88a7-9ba5fc1036a2)
+
 
 ## Connecting MySQL database with Python to do necessary operations
 
 ![image](https://github.com/AmitKotnala/EZ_DE_Assignment/assets/118646525/79687ad7-87c0-483c-83c2-4d8410429557)
 
+## Creating a database and table to store data
+
+![image](https://github.com/AmitKotnala/EZ_DE_Assignment/assets/118646525/d9be91ec-653a-41d6-985b-d6813db63b03)
 
 ## Data successfully stored in the MySQL database.
 
 ![image](https://github.com/AmitKotnala/EZ_DE_Assignment/assets/118646525/b7ec4ec7-6fd7-4321-b52d-433cc4e237fb)
 
-## References
-
-**Python XML Parser:** https://www.youtube.com/live/r6dyk68gymk?si=FGxUV0Uw8isSbJlm
-
-**Connecting MySQL with Python:** https://dev.mysql.com/doc/connector-python/en/
 
 

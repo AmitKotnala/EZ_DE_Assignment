@@ -32,4 +32,10 @@ The Translation Memory ETL (Extract, Transform, Load) project is designed to str
 
 ![image](https://github.com/AmitKotnala/EZ_DE_Assignment/assets/118646525/b7ec4ec7-6fd7-4321-b52d-433cc4e237fb)
 
+## References
+
+**Python XML Parser:** https://www.youtube.com/live/r6dyk68gymk?si=FGxUV0Uw8isSbJlm
+
+**Connecting MySQL with Python:** https://dev.mysql.com/doc/connector-python/en/
+
 
